@@ -1,3 +1,5 @@
+// email: alizalazar9@gmail.com
+
 # GraphProject
 
 This project implements an undirected weighted graph using an **adjacency list** in **C++**, without using the STL. It includes several core algorithms:
